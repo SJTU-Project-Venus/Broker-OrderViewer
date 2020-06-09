@@ -1,6 +1,6 @@
-package macoredroid.repository;
+package macoredroid.brokerQuery.repository;
 
-import macoredroid.domain.StopOrder;
+import macoredroid.brokerQuery.domain.StopOrder;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RestResource;

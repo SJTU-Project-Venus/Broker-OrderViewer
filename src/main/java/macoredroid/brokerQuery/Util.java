@@ -1,4 +1,4 @@
-package macoredroid;
+package macoredroid.brokerQuery;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

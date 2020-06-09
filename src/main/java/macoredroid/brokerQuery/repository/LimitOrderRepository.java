@@ -1,6 +1,6 @@
-package macoredroid.repository;
+package macoredroid.brokerQuery.repository;
 
-import macoredroid.domain.LimitOrder;
+import macoredroid.brokerQuery.domain.LimitOrder;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 import org.springframework.stereotype.Repository;

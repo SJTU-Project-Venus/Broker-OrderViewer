@@ -1,6 +1,6 @@
-package macoredroid.repository;
+package macoredroid.brokerQuery.repository;
 
-import macoredroid.domain.MarketDepth;
+import macoredroid.brokerQuery.domain.MarketDepth;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

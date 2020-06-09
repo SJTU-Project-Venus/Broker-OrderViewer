@@ -1,4 +1,4 @@
-package macoredroid.domain;
+package macoredroid.brokerQuery.domain;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

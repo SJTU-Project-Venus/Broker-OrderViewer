@@ -1,7 +1,6 @@
-package macoredroid.config;
+package macoredroid.brokerQuery.config;
 
-import cn.pipipan.eisproject.brokergatewayquery.domain.*;
-import macoredroid.domain.*;
+import macoredroid.brokerQuery.domain.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

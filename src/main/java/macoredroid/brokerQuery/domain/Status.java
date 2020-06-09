@@ -1,4 +1,4 @@
-package macoredroid.domain;
+package macoredroid.brokerQuery.domain;
 
 public enum Status {
     WAITING,

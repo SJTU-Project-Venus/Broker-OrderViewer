@@ -1,6 +1,6 @@
-package macoredroid.repository;
+package macoredroid.brokerQuery.repository;
 
-import macoredroid.domain.OrderBlotter;
+import macoredroid.brokerQuery.domain.OrderBlotter;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 import java.util.*;
